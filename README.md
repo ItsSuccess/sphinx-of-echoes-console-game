@@ -27,11 +27,11 @@ The project demonstrates Python programming fundamentals while exploring how gen
 
 ### Title Screen
 
-![title-screen](images/title-screen.png)
+![title-screen](images/Title-Screen.png)
 
 ### Intro
 
-![intro](images/intro.png)
+![intro](images/INTRO.png)
 
 ### Rooms
 
@@ -39,11 +39,11 @@ The project demonstrates Python programming fundamentals while exploring how gen
 
 ### GamePlay
 
-![gameplay](images/gameplay.png)
+![gameplay](images/GamePlay.png)
 
 ### Reflection
 
-![reflection](images/reflection.png)
+![reflection](images/Reflection.png)
 
 
 ## Technologies Used
